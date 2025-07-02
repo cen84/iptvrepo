@@ -1,1 +1,12 @@
+{
+  "name": "stremio-m3u-addon",
+  "version": "1.0.0",
+  "description": "A Stremio addon that streams from an M3U playlist",
+  "main": "index.js",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.0.0",
+    "m3u8-parser": "^4.6.0",
+    "axios": "^1.6.7"
+  }
+}
 
